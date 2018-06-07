@@ -3,4 +3,5 @@ POLI_NEG = ["probleem", "slecht", "onzin", "onmogelijk", "jammer", "dom", "spijt
 
 
 def get_poliseeds():
+    """Return the positive and negative seed words for the political domain. """
     return POLI_POS, POLI_NEG
