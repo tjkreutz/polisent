@@ -2,6 +2,7 @@
 
 # This script downloads all data needed for testing lexicon domain adaptation
 
+mkdir data
 cd data
 curl http://www.clips.uantwerpen.be/sites/default/files/datasets/polisent.zip
 unzip polisent.zip
