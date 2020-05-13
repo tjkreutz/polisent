@@ -3,7 +3,7 @@
 Work done in adapting general purpose sentiment lexicons for domain specific use. We specifically used word embeddings from the political domain to automatically learn new polarity values using [SentProp](https://nlp.stanford.edu/projects/socialsent/).
 
 ### Authors: Tim Kreutz and Walter Daelemans
-### Paper: Not yet available
+### Paper: [Enhancing General Sentiment Lexicons for Domain-Specific Use](https://www.aclweb.org/anthology/C18-1090.pdf)
 
 ### Overview
 
